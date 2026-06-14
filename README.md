@@ -75,6 +75,7 @@ PasteWin은 Windows 전용 클립보드 관리자입니다.
 
 | 레이어 | 기술 |
 |--------|------|
+| 플랫폼 | 윈도우 10/11 전용 |
 | 런타임 | [Tauri v2](https://tauri.app) |
 | 백엔드 | Rust |
 | 프론트엔드 | React 19 + TypeScript |
