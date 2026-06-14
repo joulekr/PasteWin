@@ -1,13 +1,21 @@
-![logo](/docs/img/pastewin.png)
+<p align="center">
+  <img src="/docs/img/pastewin.png" alt="PasteWin icon" />
+</p>
 
-# PasteWin
+<h1 align="center">PasteWin</h1>
 
-> Windows용 클립보드 관리자 — 복사한 모든 것을 기억합니다.
+> **<p align="center">Windows용 클립보드 관리자 — 복사한 모든 것을 기억합니다.</p>**
 
-![.](https://img.shields.io/badge/platform-Windows-blue?logo=windows)
-[![GitHub release](https://img.shields.io/github/v/release/joulekr/PasteWin?style=flat-square)](https://github.com/joulekr/PasteWin/releases/latest)
-[![Built with Tauri](https://img.shields.io/badge/Built%20with-Tauri%20v2-24C8DB?style=flat-square&logo=tauri)](https://tauri.app)
-![.](https://img.shields.io/badge/language-Rust%20%2B%20React-orange)
+<p align="center">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-blue?logo=windows" />
+  <a href="https://github.com/joulekr/PasteWin/releases/latest">
+    <img alt="Latest release" src="https://img.shields.io/github/v/release/joulekr/PasteWin?style=flat-square" />
+  </a>
+  <a href="https://tauri.app">
+    <img alt="Built with Tauri" src="https://img.shields.io/badge/Built%20with-Tauri%20v2-24C8DB?style=flat-square&logo=tauri" />
+  </a>
+  <img alt="Language" src = "https://img.shields.io/badge/language-Rust%20%2B%20React-orange" />
+</p>
 
 ---
 
