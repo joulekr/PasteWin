@@ -1,3 +1,4 @@
+![logo](/docs/img/pastewin.png)
 # PasteWin
 
 > Windows용 클립보드 관리자 — 복사한 모든 것을 기억합니다.
@@ -12,6 +13,9 @@ PasteWin은 Windows 전용 클립보드 관리자입니다.
 복사한 텍스트, 이미지, 파일, URL을 자동으로 저장하고, 전역 단축키 한 번으로 빠르게 꺼내 쓸 수 있습니다.
 
 시스템 트레이에 조용히 상주하며 불필요한 시스템 자원을 최소화합니다.
+
+![shot1](docs/img/pastewin01.png)
+![shot2](docs/img/pastewin02.png)
 
 ---
 
