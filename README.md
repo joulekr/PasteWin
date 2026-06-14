@@ -1,13 +1,17 @@
 ![logo](/docs/img/pastewin.png)
+
 # PasteWin
 
 > Windows용 클립보드 관리자 — 복사한 모든 것을 기억합니다.
 
+![.](https://img.shields.io/badge/platform-Windows-blue?logo=windows)
 [![GitHub release](https://img.shields.io/github/v/release/joulekr/PasteWin?style=flat-square)](https://github.com/joulekr/PasteWin/releases/latest)
 [![Built with Tauri](https://img.shields.io/badge/Built%20with-Tauri%20v2-24C8DB?style=flat-square&logo=tauri)](https://tauri.app)
+![.](https://img.shields.io/badge/language-Rust%20%2B%20React-orange)
+
 ---
 
-## 소개
+## 소개 / Overview
 
 PasteWin은 Windows 전용 클립보드 관리자입니다.  
 복사한 텍스트, 이미지, 파일, URL을 자동으로 저장하고, 전역 단축키 한 번으로 빠르게 꺼내 쓸 수 있습니다.
@@ -19,7 +23,7 @@ PasteWin은 Windows 전용 클립보드 관리자입니다.
 
 ---
 
-## 주요 기능
+## 주요 기능 / Features
 
 | 기능 | 설명 |
 |------|------|
@@ -48,7 +52,7 @@ PasteWin은 Windows 전용 클립보드 관리자입니다.
 
 ---
 
-## 설치
+## 설치 / Installation
 
 ### 다운로드 (권장)
 
@@ -59,7 +63,7 @@ PasteWin은 Windows 전용 클립보드 관리자입니다.
 
 ---
 
-## 사용법
+## 사용법 / How to use
 
 | 동작 | 방법 |
 |------|------|
@@ -75,7 +79,13 @@ PasteWin은 Windows 전용 클립보드 관리자입니다.
 
 ---
 
-## 기술 스택
+## 가이드 문서 / Documentation
+
+- 🇰🇷 [한국어 가이드](https://github.com/joulekr/PasteWin/blob/main/GUIDE.md)
+
+---
+
+## 기술 스택 / Tech Stack
 
 | 레이어 | 기술 |
 |--------|------|
@@ -90,14 +100,21 @@ PasteWin은 Windows 전용 클립보드 관리자입니다.
 
 ---
 
-## 기능 목록:
+## 자동 업데이트 / Auto Update
 
-### 완료:
+앱 시작 시 GitHub Releases에서 최신 버전을 자동으로 확인합니다.  
+새 버전이 있으면 런처 하단에 업데이트 배너가 표시됩니다.
+
+---
+
+## 기능 목록 / Feature List
+
+### 완료 / Completed
 
 - [x] 자동 업데이트 기능 (v0.1.4)
 - [ ] ...
 
-### 계획:
+### 계획 / Planned
 
 - [ ] ...
 
@@ -111,3 +128,10 @@ All rights reserved.
 
 개인적·비상업적 사용은 무료로 허용됩니다.
 재배포, 수정, 상업적 이용은 저작권자의 명시적 허가가 필요합니다.
+
+---
+
+<p align="center">
+  Made with ❤️ for Windows power users
+</p>
+
