@@ -81,7 +81,7 @@ PasteWin은 Windows 전용 클립보드 관리자입니다.
 
 ## 가이드 문서 / Documentation
 
-- 🇰🇷 [한국어 가이드](https://github.com/joulekr/PasteWin/blob/main/GUIDE.md)
+- 🇰🇷 [한국어 가이드](https://github.com/joulekr/PasteWin/blob/main/docs/GUIDE.md)
 
 ---
 
